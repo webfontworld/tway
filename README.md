@@ -1,5 +1,3 @@
-# tway
-
 # 티웨이 항공체(TwayAir)
 
 <a href="https://wess.tistory.com" target="_blank">
